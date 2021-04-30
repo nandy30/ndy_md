@@ -32,7 +32,7 @@
 ***
 ![avatar](https://bkimg.cdn.bcebos.com/pic/b999a9014c086e06e49a297e01087bf40ad1cbd1?x-bce-process=image/watermark,image_d2F0ZXIvYmFpa2U5Mg==,g_7,xp_5,yp_5/format,f_auto)
 ***
-[另一个链接](ndy_md)
+[另一个链接](./ndy.md)
 
 
 
